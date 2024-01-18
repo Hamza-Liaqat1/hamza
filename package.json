@@ -1,0 +1,19 @@
+{
+  "name": "hamzaliaqat",
+  "version": "1.0.0",
+  "description": "🚀 Explore the World of Hamza with a Command! 🌟 Dive into Hamza's universe through your terminal. Just run npx hamzaliaqat and embark on an interactive journey. Perfect for curious coders and creative minds alike. Let's make coding fun again! 🌐💻",
+  "bin":{
+    "hamza": "index.js"
+  },
+  "keywords": ["Hamza", "Hamza Liaqat", "Programmer", "About Hamza", "Node Cli"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamza-Liaqat1/hamza.git"
+  },
+  "author": "hamza liaqat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamza-Liaqat1/hamza/issues"
+  },
+  "homepage": "https://github.com/Hamza-Liaqat1/hamza#readme"
+}
