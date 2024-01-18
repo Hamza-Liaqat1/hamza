@@ -1,6 +1,6 @@
 {
   "name": "hamzaliaqat",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "🚀 Explore the World of Hamza with a Command! 🌟 Dive into Hamza's universe through your terminal. Just run npx hamzaliaqat and embark on an interactive journey. Perfect for curious coders and creative minds alike. Let's make coding fun again! 🌐💻",
   "bin":{
     "hamzaliaqat": "index.js"
