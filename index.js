@@ -1,5 +1,9 @@
 #!/usr/bin/env node
-console.clear()
+
+const clearConsole = require('clear-any-console') 
+
+clearConsole();
+
 console.log(`
 ██╗  ██╗ █████╗ ███╗   ███╗ :::::::::    █████╗               
 ██║  ██║██╔══██╗████╗ ████║       :+:   ██╔══██╗               
